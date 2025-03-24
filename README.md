@@ -275,7 +275,9 @@ Cluster 3: AUS, AUT, BEL, BGR, CHE, CZE, ESP, FIN, GBR, GRC, HUN, IRL, ISL, ITA,
 
 **Oberservation:** 
 
-The first image illustrates total pharmaceutical spending trends from 2011 to 2021, with clear peaks and fluctuations over time. The second and third images showcase a forecast for per capita pharmaceutical spending using ARIMA models and cluster-specific spending trends excluding the USA, highlighting significant variations between the clusters.
+The first image illustrates total pharmaceutical spending trends from 2011 to 2021, with clear peaks and fluctuations over time. 
+
+The second and third images showcase a forecast for per capita pharmaceutical spending using ARIMA models and cluster-specific spending trends excluding the USA, highlighting significant variations between the clusters.
 
 --------------
 
