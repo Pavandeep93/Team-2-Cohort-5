@@ -28,6 +28,10 @@ This project analyzes global pharmaceutical drug spending trends, comparing expe
 
 **🔎 Key Business Questions:**
 
+✔What are the clusters among countries in terms of pharmaceutical spending?
+
+✔How do these patterns relate to total spending across different years?
+
 ✔Investigate the relationship between pharmaceutical spending and GDP in years. 
 
 ✔How does GDP impact pharmaceutical spending across countries? 
