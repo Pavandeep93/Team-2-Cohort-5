@@ -266,6 +266,7 @@ Cluster 3: AUS, AUT, BEL, BGR, CHE, CZE, ESP, FIN, GBR, GRC, HUN, IRL, ISL, ITA,
 </p>
 
 ## **Time series per cap average spending with health metric**
+The first image illustrates total pharmaceutical spending trends from 2011 to 2021, with clear peaks and fluctuations over time. The second and third images showcase a forecast for per capita pharmaceutical spending using ARIMA models and cluster-specific spending trends excluding the USA, highlighting significant variations between the clusters.
 
 <p align="center">
     <img src="https://github.com/tqq199548/Team_2_Pharmaceutical_Drug_Spending_by_Countries/blob/main/Backup-Pictures/TOTAL_SPEND%20over%20Time%20(2011-2021).png" width="450" height="680" alt="Total Spend Over Time">
