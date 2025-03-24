@@ -272,6 +272,7 @@ Cluster 3: AUS, AUT, BEL, BGR, CHE, CZE, ESP, FIN, GBR, GRC, HUN, IRL, ISL, ITA,
  <img src="https://github.com/tqq199548/Team_2_Pharmaceutical_Drug_Spending_by_Countries/blob/main/Backup-Pictures/USD_CAP%20over%20time%20by%20cluster(2011-2021)%20Excluding%20USA.png" width="225 > </p>
 
 -----------------
+
 # **🏁Key Findings from the Analysis📌**
 
 **1️⃣ Pharmaceutical Spending is Strongly Correlated with Economic Strength.**
