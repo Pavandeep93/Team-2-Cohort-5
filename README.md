@@ -264,11 +264,9 @@ Cluster 3: AUS, AUT, BEL, BGR, CHE, CZE, ESP, FIN, GBR, GRC, HUN, IRL, ISL, ITA,
     <img src="https://github.com/tqq199548/Team_2_Pharmaceutical_Drug_Spending_by_Countries/blob/main/Backup-Pictures/Linear%20Regression%20Per%20Capita%20Spend%20Rank%20vs%20Health%20Quality%20Rank%202020.png" width="450">
     <img src="https://github.com/tqq199548/Team_2_Pharmaceutical_Drug_Spending_by_Countries/blob/main/Backup-Pictures/Linear%20Regression%20Per%20Capita%20Spend%20Rank%20vs%20Life%20Expectancy%20Rank.png" width="450">
 </p>
-
 -----------------
 
 ## **Time series per cap average spending with health metric
-
 
 <p align="center"> <img src="https://github.com/tqq199548/Team_2_Pharmaceutical_Drug_Spending_by_Countries/blob/main/Backup-Pictures/TOTAL_SPEND%20over%20Time%20(2011-2021).png" width="450" height="680"> <img src="https://github.com/tqq199548/Team_2_Pharmaceutical_Drug_Spending_by_Countries/blob/main/Backup-Pictures/USD_CAP%20Forcast%20(ARIMA).png" width="380""> 
  <img src="https://github.com/tqq199548/Team_2_Pharmaceutical_Drug_Spending_by_Countries/blob/main/Backup-Pictures/USD_CAP%20over%20time%20by%20cluster(2011-2021)%20Excluding%20USA.png" width="450 > </p>
